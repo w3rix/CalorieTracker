@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MericCengiz_HW2</string>
+    <string name="title">Daily Calories Tracker</string>
+    <string-array name="entry_types">
+        <item>Add Meal</item>
+        <item>Add Exercise</item>
+    </string-array>
+</resources>
